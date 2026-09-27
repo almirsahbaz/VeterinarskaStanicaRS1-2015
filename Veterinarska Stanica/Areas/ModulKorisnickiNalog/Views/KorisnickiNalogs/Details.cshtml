@@ -1,0 +1,98 @@
+﻿@model VeterinarskaStanica.Models.KorisnickiNalog
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>KorisnickiNalog</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Administrator.Ime)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Administrator.Ime)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Doktor.Pozicija)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Doktor.Pozicija)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Tehnicko_osoblje.Vrsta_posla)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Tehnicko_osoblje.Vrsta_posla)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.IsDeleted)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.IsDeleted)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Username)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Username)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Password)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Password)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.doc)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.doc)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.teh_osob)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.teh_osob)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.admin)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.admin)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<VeterinarskaStanica.Models.KorisnickiNalog>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Administrator.Ime)
+            </th>
+            <th>
+               Neaktivan
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.admin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.doc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.teh_osob)
+            </th>
+          
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Administrator.Ime)
+                @Html.DisplayFor(modelItem => item.Doktor.Ime)
+                @Html.DisplayFor(modelItem => item.Tehnicko_osoblje.Ime)
+            </td>
+      
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDeleted)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.admin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.doc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.teh_osob)
+            </td>
+          
+            <td>
+                <a class="btn btn-default" data-ajax="true" data-ajax-begin="onAjaxBegin" data-ajax-complete="onAjaxComplete" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="ajaxpozivKorisnici" href="">Edit</a>
+                @*@Ajax.ActionLink("Edit", "Edit", new { id = item.Id }, new AjaxOptions { UpdateTargetId = "ajaxpozivNalozi" }, new { @class = "btn btn-default" })*@
+                @*@Html.ActionLink("Details", "Details", new { id=item.Id }) |
+        @Html.ActionLink("Delete", "Delete", new { id=item.Id })*@
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<VeterinarskaStanica.Models.Usluge>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Kreiraj", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Naziv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DatumUsluge)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Naziv)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DatumUsluge)
+                </td>
+                <td>
+                    <a class="btn btn-default" data-ajax="true" data-ajax-begin="onAjaxBegin" data-ajax-complete="onAjaxComplete" data-ajax-method="GET" data-ajax-mode="replace" data-ajax-update="ajaxpozivKorisnici" href="">Edit</a>
+                    @*@Ajax.ActionLink("Izmijeni", "Edit", new { id = item.Id }, new AjaxOptions { UpdateTargetId = "ajaxpozivKorisnici" }, new { @class = "btn btn-default" })*@
+
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>

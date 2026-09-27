@@ -1,0 +1,34 @@
+﻿@model VeterinasrkaStanica.Areas.ModulLogin.Models.LoginViewModel
+@{
+    ViewBag.Title = "Login";
+   Layout = "~/Areas/ModulLogin/Views/Shared/_Layout.cshtml";
+}
+
+
+    <div class="container" style="width: 300px">
+
+        
+        <div align="center"><img src="~/Slike/vetsymb.png" alt="adminLista" /></div>
+        
+        @using (Html.BeginForm("Provjera", "Login"))
+        {
+            
+            <h2 class="form-signin-heading">Logiranje na sistem</h2>
+
+            if (TempData["Message"] != null)
+            {
+                <div>
+                    <h3>@TempData["Message"]</h3>
+                </div>
+            }
+            <input type="text" class="form-control" value="" name="Username" id="username" placeholder="Korisničko ime"  required ><br />
+           
+
+            <input type="password" class="form-control"value="" id="Password" name="Password" placeholder="Lozinka" required><br />
+
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Prijavi se</button>
+           
+        }
+    
+    </div> <!-- /container -->
+

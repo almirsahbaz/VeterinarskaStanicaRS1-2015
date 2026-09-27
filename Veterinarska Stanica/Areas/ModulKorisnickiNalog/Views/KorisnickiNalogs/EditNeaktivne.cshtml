@@ -1,0 +1,40 @@
+﻿@model VeterinarskaStanica.Areas.ModulKorisnickiNalog.Models.NalogDeleteVM
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <form asp-controller="KorisnickiNalogs" asp-action="Aktiviraj" data-ajax="True" method="Post" data-ajax-method="Post" data-ajax-url="KorisnickiNalogs/Aktiviraj">
+        @*@using (Ajax.BeginForm("Aktiviraj", "KorisnickiNalogs", FormMethod.Post, new AjaxOptions { UpdateTargetId = "ajaxpozivNalozi" }))*@
+
+        {
+            if (TempData["Message"] != null)
+            {
+                <div>
+                    <h3>@TempData["Message"]</h3>
+                </div>
+            }
+            @Html.AntiForgeryToken()
+
+            <div>
+                <h4>Korisnicki nalog aktivacija </h4>
+                <hr />
+                <div class="form-group">
+
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(model => model.KorisnickiNalogId, Model.listaNaloga.Select(model => new SelectListItem
+                   {
+                       Value = model.Id.ToString(),
+                       Text = model.Username
+                   }).ToList(), null, htmlAttributes: new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-actions no-color">
+                    <input type="submit" value="Save" class="btn btn-default" />
+
+                </div>
+            </div>
+        }
+
+        </form>

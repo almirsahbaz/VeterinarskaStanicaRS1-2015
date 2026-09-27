@@ -1,0 +1,66 @@
+﻿@model VeterinarskaStanica.Models.Tehnicko_osoblje
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Tehnicko_osoblje</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.KorisnickiNalog.Username)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.KorisnickiNalog.Username)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.IsDeleted)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.IsDeleted)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Vrsta_posla)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Vrsta_posla)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Ime)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Ime)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Prezime)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Prezime)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

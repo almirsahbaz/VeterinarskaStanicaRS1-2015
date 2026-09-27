@@ -1,0 +1,488 @@
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\appsettings.Production.json
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.deps.json
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.runtimeconfig.json
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.runtimeconfig.dev.json
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.dll
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.csprojAssemblyReference.cache
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorAssemblyInfo.cache
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorAssemblyInfo.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.AssemblyInfoInputs.cache
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.AssemblyInfo.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.TagHelpers.input.cache
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.TagHelpers.output.cache
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorCoreGenerate.cache
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorTargetAssemblyInfo.cache
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorTargetAssemblyInfo.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Areas\ModulAdmin\Views\web.config
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Areas\ModulDoktor\Views\web.config
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Areas\ModulKorisnickiNalog\Views\web.config
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Areas\ModulLogin\Views\web.config
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Areas\ModulTehnickoOsoblje\Views\web.config
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Home.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Details.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Gradovi\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Odjeli\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\StrucneSpreme\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Details.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Zvanjes\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Doktor\Home.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Details.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\EditNeaktivne.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Izmjena.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulLogin\Views\Login\Login.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulLogin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\TehnickoOsoblje\Home.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Index.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Create.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\source\repos\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.csprojAssemblyReference.cache
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorAssemblyInfo.cache
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorAssemblyInfo.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.AssemblyInfoInputs.cache
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.AssemblyInfo.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.TagHelpers.input.cache
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.TagHelpers.output.cache
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorCoreGenerate.cache
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Home.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Details.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Gradovi\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Odjeli\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\StrucneSpreme\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Details.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Zvanjes\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Doktor\Home.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Details.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\EditNeaktivne.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Izmjena.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulLogin\Views\Login\Login.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulLogin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\TehnickoOsoblje\Home.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Create.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Delete.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Edit.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorTargetAssemblyInfo.cache
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorTargetAssemblyInfo.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.dll
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.pdb
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\_ViewImports.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\_ViewImports.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\_ViewImports.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulLogin\Views\_ViewImports.cshtml.g.cs
+C:\Users\EMIR\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.csprojAssemblyReference.cache
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorAssemblyInfo.cache
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorAssemblyInfo.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.AssemblyInfoInputs.cache
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.AssemblyInfo.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.TagHelpers.input.cache
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.TagHelpers.output.cache
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorCoreGenerate.cache
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Home.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Details.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Gradovi\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Odjeli\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\StrucneSpreme\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Details.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Zvanjes\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Doktor\Home.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Details.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\EditNeaktivne.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Izmjena.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulLogin\Views\Login\Login.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulLogin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulLogin\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\TehnickoOsoblje\Home.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorTargetAssemblyInfo.cache
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorTargetAssemblyInfo.cs
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.dll
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.pdb
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\appsettings.Production.json
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.deps.json
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.runtimeconfig.json
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.runtimeconfig.dev.json
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.dll
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.pdb
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.Views.dll
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.Views.pdb
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.Views.pdb
+C:\Users\almirsahbaz\Desktop\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.csproj.CopyComplete
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\appsettings.Production.json
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.deps.json
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.runtimeconfig.json
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.runtimeconfig.dev.json
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.dll
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.pdb
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.Views.dll
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\bin\Debug\netcoreapp2.2\Veterinarska Stanica.Views.pdb
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.csprojAssemblyReference.cache
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorAssemblyInfo.cache
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorAssemblyInfo.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.AssemblyInfoInputs.cache
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.AssemblyInfo.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.TagHelpers.input.cache
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.TagHelpers.output.cache
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorCoreGenerate.cache
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Home.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Administrator\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Details.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Doktor\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Gradovi\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Odjeli\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\StrucneSpreme\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Details.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Tehnicko_osoblje\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\Zvanjes\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulAdmin\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Dijagnoza\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Doktor\Home.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Lijekovi\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pacijent\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Pregledi\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\UspostavljenaDijagnoza\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vlasnici\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\Vrsta\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulDoktor\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Details.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\EditNeaktivne.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\KorisnickiNalogs\Izmjena.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulKorisnickiNalog\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulLogin\Views\Login\Login.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulLogin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulLogin\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\DefinisaneTerapije\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\IzvrsenaUsluga\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\KupljeniLijek\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Racun\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\TehnickoOsoblje\Home.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Terapije\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uloga\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Uplate\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Create.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Delete.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Edit.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\Usluga\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Areas\ModulTehnickoOsoblje\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorTargetAssemblyInfo.cache
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.RazorTargetAssemblyInfo.cs
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.Views.pdb
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.dll
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.pdb
+C:\Users\almirsahbaz\Desktop\Seminarski\Veterinarska Stanica\Veterinarska Stanica\obj\Debug\netcoreapp2.2\Veterinarska Stanica.csproj.CopyComplete

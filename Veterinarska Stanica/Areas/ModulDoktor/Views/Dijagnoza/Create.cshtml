@@ -1,0 +1,45 @@
+﻿@model VeterinarskaStanica.Areas.ModulDoktor.Models.Dijagnoze
+
+@{
+    ViewBag.Title = "Dodavanje";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Doavanje</h2>
+<form asp-controller="Dijagnoza" asp-action="Create" data-ajax="True" method="Post" data-ajax-method="Post" data-ajax-url="Dijagnoza/Create">
+    @*@using (Ajax.BeginForm("Create", "Dijagnoza", FormMethod.Post, new AjaxOptions { UpdateTargetId = "ajaxpoziv" }))*@
+    {
+    if (TempData["Message"] != null)
+    {
+    <div>
+        <h3>@TempData["Message"]</h3>
+    </div>
+    }
+    @Html.AntiForgeryToken()
+    <h4>Dijagnoze</h4>
+    <hr />
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.LabelFor(model => model.Naziv_dijagnoze, "Naziv", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Naziv_dijagnoze, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Naziv_dijagnoze, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Sifra_dijagnoze, "Šifra", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Sifra_dijagnoze, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Sifra_dijagnoze, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Dodaj" class="btn btn-default" />
+            </div>
+        </div>
+
+    </div>
+
+    }
+    </form>

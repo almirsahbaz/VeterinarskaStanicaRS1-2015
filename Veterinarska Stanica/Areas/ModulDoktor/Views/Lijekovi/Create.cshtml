@@ -1,0 +1,53 @@
+﻿@model VeterinarskaStanica.Areas.ModulDoktor.Models.Lijek
+
+@{
+    ViewBag.Title = "Dodavanje";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Dodavanje</h2>
+<form asp-controller="Lijekovi" asp-action="Create" data-ajax="True" method="Post" data-ajax-method="Post" data-ajax-url="Lijekovi/Create">
+    @*@using (Ajax.BeginForm("Create", "Lijekovi", FormMethod.Post, new AjaxOptions { UpdateTargetId = "ajaxpoziv" }))*@
+    {
+    if (TempData["Message"] != null)
+    {
+    <div>
+        <h3>@TempData["Message"]</h3>
+    </div>
+    }
+    @Html.AntiForgeryToken()
+    <h4>Lijekovi</h4>
+    <hr />
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.LabelFor(model => model.Naziv, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Naziv, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Naziv, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Vrsta, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Vrsta, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Vrsta, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Rok_trajanja, "Rok trajanja", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Rok_trajanja, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Rok_trajanja, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Dodaj" class="btn btn-default" />
+            </div>
+        </div>
+
+    </div>
+
+    }
+    </form>

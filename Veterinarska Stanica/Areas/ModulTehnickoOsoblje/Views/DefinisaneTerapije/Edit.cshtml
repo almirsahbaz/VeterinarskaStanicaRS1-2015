@@ -1,0 +1,63 @@
+﻿@model VeterinarskaStanica.Areas.ModulTehnickoOsoblje.Models.DefinisaneTerapije
+@{
+    ViewBag.Title = "Izmjena";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Izmjena</h2>
+<form asp-controller="DefinisaneTerapije" asp-action="Edit" data-ajax="True" method="Post" data-ajax-method="Post" data-ajax-url="DefinisaneTerapije/Edit">
+    @*@using (Ajax.BeginForm("Edit", "DefinisaneTerapije", FormMethod.Post, new AjaxOptions { UpdateTargetId = "ajaxpozivNalozi" }))*@
+    {
+        if (TempData["Message"] != null)
+        {
+            <div>
+                <h3>@TempData["Message"]</h3>
+            </div>
+        }
+        @Html.AntiForgeryToken()
+        <div class="form-horizontal">
+            <h4>Definisane terapije</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.Doziranje, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Doziranje, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Doziranje, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.TerapijaId, "Terapija", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.TerapijaId, Model.listaTerapija.Select(model => new SelectListItem
+               {
+                   Value = model.Id.ToString(),
+                   Text = model.Vrsta
+               }).ToList(), new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.TerapijaId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.PreglediId, "Pregled", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.PreglediId, Model.listaPregleda.Select(model => new SelectListItem
+               {
+                   Value = model.Id.ToString(),
+                   Text = model.Id.ToString()
+               }).ToList(), new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.PreglediId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Izmijeni" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+
+
+    }
+    </form>

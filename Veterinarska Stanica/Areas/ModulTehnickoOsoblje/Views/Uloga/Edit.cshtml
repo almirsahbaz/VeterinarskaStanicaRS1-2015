@@ -1,0 +1,40 @@
+﻿@model VeterinarskaStanica.Areas.ModulTehnickoOsoblje.Models.Uloga
+@{
+    ViewBag.Title = "Izmjena";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Izmjena</h2>
+<form asp-controller="Uloga" asp-action="Edit" data-ajax="True" method="Post" data-ajax-method="Post" data-ajax-url="Uloga/Edit">
+    @*@using (Ajax.BeginForm("Edit", "Uloga", FormMethod.Post, new AjaxOptions { UpdateTargetId = "ajaxpozivKorisnici" }))*@
+    {
+        if (TempData["Message"] != null)
+        {
+            <div>
+                <h3>@TempData["Message"]</h3>
+            </div>
+        }
+        @Html.AntiForgeryToken()
+        <div class="form-horizontal">
+            <h4>Uloge</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.NazivUloge, "Naziv uloge", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.NazivUloge, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.NazivUloge, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Izmijeni" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+
+
+    }
+
+    </form>

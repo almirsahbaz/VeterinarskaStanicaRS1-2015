@@ -1,0 +1,54 @@
+﻿@model VeterinarskaStanica.Areas.ModulTehnickoOsoblje.Models.Racun
+@{
+    ViewBag.Title = "Izmjena";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Izmjena</h2>
+<form asp-controller="Racun" asp-action="Edit" data-ajax="True" method="Post" data-ajax-method="Post" data-ajax-url="Racun/Edit">
+    @*@using (Ajax.BeginForm("Edit", "Racun", FormMethod.Post, new AjaxOptions { UpdateTargetId = "ajaxpoziv" }))*@
+    {
+        if (TempData["Message"] != null)
+        {
+            <div>
+                <h3>@TempData["Message"]</h3>
+            </div>
+        }
+        @Html.AntiForgeryToken()
+        <div class="form-horizontal">
+            <h4>Računi</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.Naziv, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Naziv, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Naziv, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Datum, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Datum, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Datum, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.IznosZaPlatiti, "Iznos za platiti", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.IznosZaPlatiti, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.IznosZaPlatiti, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Izmijeni" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+
+
+    }
+    </form>

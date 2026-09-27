@@ -1,0 +1,103 @@
+﻿@using VeterinarskaStanica.Models
+
+@using VeterinasrkaStanica.Helper
+
+@model VeterinarskaStanica.Areas.ModulKorisnickiNalog.Models.ProfilIzmjenaVM
+
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    KorisnickiNalog k = Autentifikacija.GetLogiraniKorisnik(Context);
+
+}
+    <form asp-controller="KorisnickiNalogs" asp-action="Snimi" data-ajax="True" method="Post" data-ajax-method="Post" data-ajax-url="KorisnickiNalogs/Snimi">
+        @*@using (Ajax.BeginForm("Snimi", "KorisnickiNalogs", FormMethod.Post, new AjaxOptions { UpdateTargetId = "ajaxpozivPorfil" }))*@
+
+        {
+
+
+
+        <div class="col-lg-3 text-center">
+
+            <div class="panel panel-default">
+
+                <div class="panel-heading">
+
+                    <h3 class="panel-title">
+
+                        <i class="fa fa-bar-chart-o fa-fw"></i> Moj profil
+
+                    </h3>
+
+                </div>
+
+                <div class="panel-body">
+
+                    @if (TempData["Message"] != null)
+
+                    {
+
+                        <div>
+
+                            <h3>@TempData["Message"]</h3>
+
+                        </div>
+
+                    }
+
+                    @Html.AntiForgeryToken()
+
+                    <h4>Izmjena lozinke</h4>
+
+                    <hr />
+
+                    <div class="form-horizontal">
+
+                        <div class="form-group">
+
+                            @Html.LabelFor(model => model.StariPassword, "Stara lozinka", htmlAttributes: new { @class = "control-label col-md-2" })
+
+                            <div class="col-md-10">
+
+                                @Html.PasswordFor(model => model.StariPassword, new { htmlAttributes = new { @class = "form-control", placeholder = "Lozinka" } })
+                                @Html.ValidationMessageFor(model => model.StariPassword, "", new { @class = "text-danger" })
+
+                            </div>
+
+                        </div>
+
+                        <div class="form-group">
+
+                            @Html.LabelFor(model => model.NoviPassword, "Nova lozinka", htmlAttributes: new { @class = "control-label col-md-2" })
+
+                            <div class="col-md-10">
+
+                                @Html.PasswordFor(model => model.NoviPassword, new { htmlAttributes = new { @class = "form-control", placeholder = "Lozinka" } })
+
+                                @Html.ValidationMessageFor(model => model.NoviPassword, "", new { @class = "text-danger" })
+
+                            </div>
+
+                        </div>
+
+                        <div class="form-group">
+
+                            <div class="col-md-offset-2 col-md-10">
+
+                                <input type="submit" value="Izmijeni" class="btn btn-default" />
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        }
+        </form>

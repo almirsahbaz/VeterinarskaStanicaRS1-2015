@@ -1,0 +1,39 @@
+﻿@model VeterinarskaStanica.Areas.ModulDoktor.Models.Vlasnici
+@{
+    ViewBag.Title = "Brisanje";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Brisanje</h2>
+<form asp-controller="Vlasnici" asp-action="Delete" data-ajax="True" method="Post" data-ajax-method="Post" data-ajax-url="Vlasnici/Delete">
+    @*@using (Ajax.BeginForm("Obrisi", "Vlasnici", FormMethod.Post, new AjaxOptions { UpdateTargetId = "ajaxpozivNalozi" }))*@
+    {
+    if (TempData["Message"] != null)
+    {
+    <div>
+        <h3>@TempData["Message"]</h3>
+    </div>
+    }
+    @Html.AntiForgeryToken()
+
+
+    <div>
+        <h4>Vlasnici</h4>
+        <hr />
+        <div class="form-group">
+
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.Id, Model.listaVlasnika.Select(model => new SelectListItem
+           {
+               Value = model.Id.ToString(),
+               Text = model.Ime + " " + model.Prezime
+           }).ToList(), null, htmlAttributes: new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Obriši" class="btn btn-default" />
+
+        </div>
+    </div>
+    }
+    </form>

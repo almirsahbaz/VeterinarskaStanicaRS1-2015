@@ -1,0 +1,89 @@
+﻿@model VeterinarskaStanica.Areas.ModulAdmin.Models.AdminDodajVM
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+
+<form asp-controller="Administrator" asp-action="Create" data-ajax="True" method="Post" data-ajax-method="Post" data-ajax-url="Administrator/Create">
+
+
+
+    @*@using (Ajax.BeginForm("Create", "Administrator", FormMethod.Post, new AjaxOptions { UpdateTargetId = "ajaxpozivKorisnici" }))*@
+    {
+    if (TempData["Message"] != null)
+    {
+    <div>
+        <h3>@TempData["Message"]</h3>
+    </div>
+    }
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <h4>Administrator</h4>
+        <hr />
+        <div class="form-group">
+            @Html.LabelFor(model => model.KorisnickiNalogId, "Username", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.KorisnickiNalogId, Model.listaNaloga.Select(model => new SelectListItem
+           {
+               Value = model.Id.ToString(),
+               Text = model.Username
+           }).ToList(), new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.KorisnickiNalogId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Ime, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Ime, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Ime, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Prezime, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Prezime, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Prezime, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.GradoviId, "Grad", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.GradoviId, Model.listaGradova.Select(model => new SelectListItem
+                {
+                    Value = model.Id.ToString(),
+                    Text = model.Naziv
+                }).ToList(), new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.KorisnickiNalogId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.StrucneSpremeId, "Sprema", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.StrucneSpremeId, Model.listaSpreme.Select(model => new SelectListItem
+           {
+               Value = model.Id.ToString(),
+               Text = model.Naziv
+           }).ToList(), new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.KorisnickiNalogId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+
+    }
+
+</form>
